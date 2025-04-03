@@ -3,7 +3,7 @@ from opendeepsearch import OpenDeepSearchTool
 import os
 from dotenv import load_dotenv
 import argparse
-
+print("welcome to gradio_demo")
 # Load environment variables
 load_dotenv()
 
